@@ -1,2 +1,2 @@
  - OIT
- - Setting up github
+ - Preparing github
